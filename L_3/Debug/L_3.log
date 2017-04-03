@@ -1,0 +1,18 @@
+﻿Сборка начата 27.02.2017 15:05:49.
+     1>Проект "E:\УЧЁБА\2 Курс\2 семестр\КГиГ\Лабы\L_3\L_3\L_3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>e:\учёба\2 курс\2 семестр\кгиг\лабы\l_3\l_3\main.cpp(135): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>e:\учёба\2 курс\2 семестр\кгиг\лабы\l_3\l_3\main.cpp(182): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\УЧЁБА\2 Курс\2 семестр\КГиГ\Лабы\L_3\Debug\L_3.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\УЧЁБА\2 Курс\2 семестр\КГиГ\Лабы\L_3\Debug\L_3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\УЧЁБА\2 Курс\2 семестр\КГиГ\Лабы\L_3\Debug\L_3.lib" /MACHINE:X86 Debug\CMatrix.obj
+         Debug\Functions.obj
+         Debug\main.obj
+         L_3.vcxproj -> E:\УЧЁБА\2 Курс\2 семестр\КГиГ\Лабы\L_3\Debug\L_3.exe
+     1>Сборка проекта "E:\УЧЁБА\2 Курс\2 семестр\КГиГ\Лабы\L_3\L_3\L_3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.48
